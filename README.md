@@ -22,9 +22,7 @@ C · C++ · Java · Python · JavaScript · PHP · SQL
 
 HTML · CSS · JavaScript · PHP
 
-**Interests**
 
-Object-Oriented Programming · Software Engineering · Systems Programming · Networking
 
 
 
