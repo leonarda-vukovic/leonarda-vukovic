@@ -1,6 +1,6 @@
 # Hi, I'm Leonarda 👋
 
-I'm a Software Developer student interested in building software, understanding how things work under the hood, and continuously learning new technologies.
+I'm a Software Development student with background in Mathematics interested in building software, understanding how things work under the hood, and continuously learning new technologies.
 
 ### About Me
 
